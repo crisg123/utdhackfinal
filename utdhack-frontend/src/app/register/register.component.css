@@ -1,0 +1,10 @@
+
+mat-card{
+  margin: auto;
+}
+.header {
+  padding: 60px;
+  text-align: center;
+  color: darkblue;
+  font-size: 40px;
+}
